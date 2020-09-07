@@ -38,10 +38,6 @@
 
 [Risc-V resources](https://abolish.technology/risc-v)
 
-[Linux System Call Table 32 Bit](https://web.archive.org/web/20191019065232/https://syscalls.kernelgrok.com/)
-
-[Linux System Call Table 64 Bit](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
-
 
 
 ### Tutorials/Courses
@@ -105,6 +101,10 @@
 [Unleashing	Use-After-Free Vulnerabilities in Linux Kernel](https://gts3.org/~wen/assets/papers/xu:collision-slides.pdf)
 
 [Exploiting A Use-After-Free With radare2 - CTF Challenge](https://bananamafia.dev/post/uaf-1/)
+
+[Linux System Call Table 32 Bit](https://web.archive.org/web/20191019065232/https://syscalls.kernelgrok.com/)
+
+[Linux System Call Table 64 Bit](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 
 
 
