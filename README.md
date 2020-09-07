@@ -118,6 +118,8 @@
 
 [Basics of Windows shellcode writing](https://idafchev.github.io/exploit/2017/09/26/writing_windows_shellcode.html)
 
+[Understanding Windows Shellcode](http://www.hick.org/code/skape/papers/win32-shellcode.pdf)
+
 [Bypassing Windows Hardware-enforced Data Execution Prevention](http://uninformed.org/?v=2&a=4)
 
 [A Beginner’s Guide to Windows Shellcode Execution Techniques](https://www.contextis.com/en/blog/a-beginners-guide-to-windows-shellcode-execution-techniques#When:14:57:00Z)
