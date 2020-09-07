@@ -1,6 +1,6 @@
 # Scuffed Low Level Stash
 
-*Stash for Binary Exploitation and Reverse Engineering Recourses*
+*Stash for Binary Exploitation and Reverse Engineering Resources*
 
 
 
