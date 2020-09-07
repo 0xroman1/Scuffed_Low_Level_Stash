@@ -80,6 +80,8 @@
 
 [Abatchy's Blog](https://www.abatchy.com/)
 
+[Connor Mcgarr's Blog](https://connormcgarr.github.io/)
+
 [SEH Based Exploits](https://www.corelan.be/index.php/2009/07/25/writing-buffer-overflow-exploits-a-quick-and-basic-tutorial-part-3-seh/)
 
 [COM Hijacking for Lateral Movement](https://ijustwannared.team/2020/05/05/com-hijacking-for-lateral-movement/)
