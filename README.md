@@ -38,6 +38,10 @@
 
 [Risc-V resources](https://abolish.technology/risc-v)
 
+[Linux System Call Table 32 Bit](https://web.archive.org/web/20191019065232/https://syscalls.kernelgrok.com/)
+
+[Linux System Call Table 64 Bit](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
+
 
 
 ### Tutorials/Courses
@@ -98,6 +102,10 @@
 
 [The never ending problems of local ASLR holes in Linux](https://blog.blazeinfosec.com/the-never-ending-problems-of-local-aslr-holes-in-linux/amp/?__twitter_impression=true)
 
+[Unleashing	Use-After-Free Vulnerabilities in Linux Kernel](https://gts3.org/~wen/assets/papers/xu:collision-slides.pdf)
+
+[Exploiting A Use-After-Free With radare2 - CTF Challenge](https://bananamafia.dev/post/uaf-1/)
+
 
 
 ### Windows Exploitation
@@ -132,9 +140,15 @@
 
 [DLL Injection Using LoadLibrary in C](https://arvanaghi.com/blog/dll-injection-using-loadlibrary-in-C/)
 
+[Use After Free](https://rootkits.xyz/blog/2018/04/kernel-use-after-free/)
+
 
 
 ### Return Oriented Programming
+
+[Return Oriented Programming Techniques](https://steemit.com/ctf/@austinhudson/return-oriented-programming-techniques)
+
+[Deep Dive into ROP Payload Analysis](https://www.exploit-db.com/docs/english/35355-deep-dive-into-rop-payload-analysis.pdf)
 
 [Return Oriented Programming Tetzank Guide](https://tetzank.github.io/posts/return-oriented-programming/)
 
@@ -142,7 +156,21 @@
 
 [Chaining DEP with ROP](https://www.corelan.be/index.php/2010/06/16/exploit-writing-tutorial-part-10-chaining-dep-with-rop-the-rubikstm-cube/)
 
+[return-to-csu: A New Method to Bypass 64-bit Linux ASLR](https://i.blackhat.com/briefings/asia/2018/asia-18-Marco-return-to-csu-a-new-method-to-bypass-the-64-bit-Linux-ASLR-wp.pdf)
+
+[ROP Emporium - ret2csu](https://jasper.la/posts/ropemporium-8-ret2csu/)
+
 [Framing Signals—A Return to Portable Shellcode](https://www.cs.vu.nl/~herbertb/papers/srop_sp14.pdf)
+
+[Slides for Framing Signals—A Return to Portable Shellcode](https://tc.gts3.org/cs8803/2014/r/srop-slides.pdf)
+
+[SROP Exploitation with radare2](https://bananamafia.dev/post/srop/)
+
+[Sigreturn-Oriented Programming](https://amriunix.com/post/sigreturn-oriented-programming-srop/)
+
+[ret2dlresolve](https://www.da.vidbuchanan.co.uk/blog/0CTF-2018-babystack-ret2dlresolve.html)
+
+[Jump-Oriented Programming](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf)
 
 
 
@@ -159,6 +187,8 @@
 [Linux Heap TCache Poisoning](https://drive.google.com/file/d/1XpdruvtC1qW0OKLxO8FaqU9XCl8O_SON/view)
 
 [Remote Code Execution via Tcache Poisoning](https://youtu.be/43ewpRBIRgA)
+
+[Applying Return Oriented and Jump Oriented Programming Exploitation Techniques with Heap Spraying](http://acta.uni-obuda.hu//Erdodi_61.pdf)
 
 
 
@@ -218,6 +248,7 @@
 
 [AngelBoy1 Presentations](https://www.slideshare.net/AngelBoy1/presentations)
 
+[Make PE Backdooring Great Again](https://gsec.hitb.org/materials/sg2019/D2%20COMMSEC%20-%20PErfidious%20-%20Make%20PE%20Backdooring%20Great%20Again%20-%20Shreyans%20Doshi.pdf)
 
 
 ### Certification Preparation
