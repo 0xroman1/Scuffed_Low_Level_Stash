@@ -174,6 +174,8 @@
 
 [Jump-Oriented Programming](https://www.comp.nus.edu.sg/~liangzk/papers/asiaccs11.pdf)
 
+[Utilizing Code Reuse/ROP in PHP Application Exploits](https://owasp.org/www-pdf-archive/Utilizing-Code-Reuse-Or-Return-Oriented-Programming-In-PHP-Application-Exploits.pdf)
+
 
 
 ### Heap Exploitation
