@@ -50,6 +50,8 @@
 
 [Offensive Software Exploitation (OSE) Course](https://github.com/ashemery/exploitation-course)
 
+[Modern Binary Exploitation - CSCI 4968](http://security.cs.rpi.edu/courses/binexp-spring2015/)
+
 [PWN College](https://pwn.college/)
 
 [Let's Learn x86-64 Assembly!](https://gpfault.net/posts/asm-tut-0.txt.html)
@@ -67,8 +69,6 @@
 [Z0F-Course on Reverse Engineering](https://github.com/0xZ0F/Z0FCourse_ReverseEngineering)
 
 [Fuzzy Security](https://www.fuzzysecurity.com/tutorials.html)
-
-[Modern Binary Exploitation - CSCI 4968](http://security.cs.rpi.edu/courses/binexp-spring2015/)
 
 [Exploit Development Community Course](https://web.archive.org/web/20170704144922/http://expdev-kiuhnm.rhcloud.com/2015/05/11/contents/)
 
