@@ -56,6 +56,8 @@
 
 [Exploit Education](http://exploit.education/)
 
+[OpenSecurityTraining](http://opensecuritytraining.info/Training.html)
+
 [Let's Learn x86-64 Assembly!](https://gpfault.net/posts/asm-tut-0.txt.html)
 
 [x86 Assembly Crash Course](https://www.youtube.com/watch?v=75gBFiFtAb8)
