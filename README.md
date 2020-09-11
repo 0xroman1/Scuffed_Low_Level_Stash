@@ -204,7 +204,7 @@ I plan on maintaining and updating this repository. If you have recourses that a
 
 
 
-## 🤕 Heap Exploitation
+## 🤸 Heap Exploitation
 
 [Heap Exploitation Book](https://heap-exploitation.dhavalkapil.com/)
 
