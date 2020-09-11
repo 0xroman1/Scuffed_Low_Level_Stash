@@ -1,7 +1,8 @@
 # Scuffed Low Level Stash
 
 [Twitter - @0xRoman1](https://twitter.com/0xroman1)
-*(Very) Scuffed Stash for Binary Exploitation and Reverse Engineering Resources*
+
+*Scuffed Stash for Binary Exploitation and Reverse Engineering Resources*
 
 
 
