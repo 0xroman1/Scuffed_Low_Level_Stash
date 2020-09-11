@@ -1,12 +1,26 @@
-# Scuffed Low Level Stash
+# 🔺 Scuffed Low Level Stash 🔺
 
-[Twitter - @0xRoman1](https://twitter.com/0xroman1)
+
+
+**Follow me:** [Twitter - @0xRoman1](https://twitter.com/0xroman1)
 
 *Scuffed Stash for Binary Exploitation and Reverse Engineering Resources*
 
 
 
-### Introductory Information
+![Zach Galifianakis Reaction GIF](https://media0.giphy.com/media/BmmfETghGOPrW/giphy.gif?cid=ecf05e4756c8323106972de0f0b6edf7f509363da0bb93d1&rid=giphy.gif)
+
+
+
+I plan on maintaining and updating this repository. If you have recourses that are not already on this list, preferably for more advanced techniques. Feel free to contribute.
+
+
+
+## 📢 Introductory Information
+
+**Here are some recommended recourses to browse through if you are just starting off.**
+
+
 
 [What is x86-64](https://en.wikipedia.org/wiki/X86-64)
 
@@ -42,7 +56,11 @@
 
 
 
-### Tutorials/Courses
+## 💡 Tutorials/Courses
+
+**Here are some great free courses and tutorials. The first 5 links contain some great information.**
+
+
 
 [Nightmare](https://github.com/guyinatuxedo/nightmare)
 
@@ -100,23 +118,23 @@
 
 
 
-### Linux Exploitation
-
-[A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
-
-[The never ending problems of local ASLR holes in Linux](https://blog.blazeinfosec.com/the-never-ending-problems-of-local-aslr-holes-in-linux/amp/?__twitter_impression=true)
-
-[Unleashing	Use-After-Free Vulnerabilities in Linux Kernel](https://gts3.org/~wen/assets/papers/xu:collision-slides.pdf)
-
-[Exploiting A Use-After-Free With radare2 - CTF Challenge](https://bananamafia.dev/post/uaf-1/)
+## 🐧 Linux Exploitation
 
 [Linux System Call Table 32 Bit](https://web.archive.org/web/20191019065232/https://syscalls.kernelgrok.com/)
 
 [Linux System Call Table 64 Bit](http://blog.rchapman.org/posts/Linux_System_Call_Table_for_x86_64/)
 
+[A gentle introduction to Linux Kernel fuzzing](https://blog.cloudflare.com/a-gentle-introduction-to-linux-kernel-fuzzing/)
+
+[The never ending problems of local ASLR holes in Linux](https://blog.blazeinfosec.com/the-never-ending-problems-of-local-aslr-holes-in-linux/amp/?__twitter_impression=true)
+
+[Unleashing Use-After-Free Vulnerabilities in Linux Kernel](https://gts3.org/~wen/assets/papers/xu:collision-slides.pdf)
+
+[Exploiting A Use-After-Free With radare2 - CTF Challenge](https://bananamafia.dev/post/uaf-1/)
 
 
-### Windows Exploitation
+
+## 🌆 Windows Exploitation
 
 [Windows Exploitation Resources](https://github.com/FULLSHADE/WindowsExploitationResources)
 
@@ -154,7 +172,7 @@
 
 
 
-### Return Oriented Programming
+## 🤖 Return Oriented Programming
 
 [Return Oriented Programming Techniques](https://steemit.com/ctf/@austinhudson/return-oriented-programming-techniques)
 
@@ -186,7 +204,7 @@
 
 
 
-### Heap Exploitation
+## 🤕 Heap Exploitation
 
 [Heap Exploitation Book](https://heap-exploitation.dhavalkapil.com/)
 
@@ -204,7 +222,7 @@
 
 
 
-### Programming
+## 💻 Programming
 
 [Assembly’s Perspective of C](https://blog.stephenmarz.com/2020/05/20/assemblys-perspective/)
 
@@ -214,7 +232,7 @@
 
 
 
-### Reverse Engineering
+## 🔄 Reverse Engineering
 
 [RE Reading List](https://github.com/onethawt/reverseengineering-reading-list)
 
@@ -248,7 +266,7 @@
 
 
 
-### Useful Slides
+## 🛎️ Useful Slides
 
 [The info leak era on software exploitation](https://media.blackhat.com/bh-us-12/Briefings/Serna/BH_US_12_Serna_Leak_Era_Slides.pdf)
 
@@ -263,7 +281,8 @@
 [Make PE Backdooring Great Again](https://gsec.hitb.org/materials/sg2019/D2%20COMMSEC%20-%20PErfidious%20-%20Make%20PE%20Backdooring%20Great%20Again%20-%20Shreyans%20Doshi.pdf)
 
 
-### Certification Preparation
+
+## 📝 Certification Preparation
 
 [PWK/OSCP Preparation](https://github.com/rewardone/OSCPRepo)
 
@@ -273,7 +292,7 @@
 
 
 
-### Labs/Wargames
+## 🥼 Labs/Wargames
 
 [RET2 WarGames](https://wargames.ret2.systems/)
 
@@ -301,7 +320,7 @@
 
 
 
-### Other
+## 📰 Other
 
 [Bit Twiddling Hacks](https://graphics.stanford.edu/~seander/bithacks.html)
 
