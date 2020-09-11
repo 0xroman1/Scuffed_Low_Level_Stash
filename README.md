@@ -2,7 +2,7 @@
 
 
 
-#### **Follow me:** [Twitter - @0xRoman1](https://twitter.com/0xroman1)
+### **Follow me:** [Twitter - @0xRoman1](https://twitter.com/0xroman1)
 
 *Scuffed Stash for Binary Exploitation and Reverse Engineering Resources*
 
