@@ -295,7 +295,7 @@
 
 ## 🥼 Labs/Wargames
 
-[RET2 WarGames](https://wargames.ret2.systems/)
+[RET2 WarGames (Paid)](https://wargames.ret2.systems/)
 
 [ROP Emporium](https://ropemporium.com/)
 
