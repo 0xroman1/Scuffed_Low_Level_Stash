@@ -117,6 +117,7 @@
 
 [Format String Exploitation-Tutorial](https://www.exploit-db.com/docs/english/28476-linux-format-string-exploitation.pdf)
 
+[ARM64 Reversing and Exploitation](http://highaltitudehacks.com/2020/09/05/arm64-reversing-and-exploitation-part-1-arm-instruction-set-heap-overflow/)
 
 
 ## 🐧 Linux Exploitation
