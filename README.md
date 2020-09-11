@@ -66,7 +66,7 @@
 
 [x86-64 Assembly Language Programming with Ubuntu](http://www.egr.unlv.edu/~ed/assembly64.pdf)
 
-[TryHackMe x86-64 Assembly](https://drive.google.com/file/d/1maTcdquyqnZCIcJO7jLtt4cNHuRQuK4x/view)
+[TryHackMe x86-64 Assembly Documentation](https://drive.google.com/file/d/1maTcdquyqnZCIcJO7jLtt4cNHuRQuK4x/view)
 
 [Quick Guide to Assembly in 161](https://inst.eecs.berkeley.edu/~cs161/sp15/discussions/dis06-assembly.pdf)
 
