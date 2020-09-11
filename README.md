@@ -13,7 +13,7 @@
 
 
 
-I plan on maintaining and updating this repository. If you have recourses that are not already on this list, preferably for more advanced techniques. Feel free to contribute.
+I plan on maintaining and updating this repository. If you have resources that are not already on this list, preferably for more advanced techniques. Feel free to contribute.
 
 
 
