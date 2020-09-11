@@ -2,6 +2,8 @@
 
 *Scuffed Stash for Binary Exploitation and Reverse Engineering Resources*
 
+[Twitter - @0xRoman1](https://twitter.com/0xroman1)
+
 
 
 ### Introductory Information
