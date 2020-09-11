@@ -295,6 +295,8 @@
 
 [Damn Vulnerable Router Firmware](https://github.com/praetorian-code/DVRF)
 
+[Exploit Exercises](https://exploit-exercises.lains.space/)
+
 
 
 ### Other
