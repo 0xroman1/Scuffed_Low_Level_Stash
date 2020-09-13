@@ -45,6 +45,16 @@
 
 [Anatomy of a Program in Memory](https://manybutfinite.com/post/anatomy-of-a-program-in-memory/)
 
+[What is NX?](http://index-of.es/EBooks/NX-bit.pdf)
+
+[What is DEP?](https://docs.microsoft.com/en-us/windows/win32/memory/data-execution-prevention)
+
+[What are Stack Canaries?](https://access.redhat.com/blogs/766093/posts/3548631)
+
+[What does PIE Mean?](https://access.redhat.com/blogs/766093/posts/1975793)
+
+[What is ASLR?](https://en.wikipedia.org/wiki/Address_space_layout_randomization)
+
 [Virtual Memory and Address Translation](https://www.cs.utexas.edu/users/witchel/372/lectures/15.VirtualMemory.pdf)
 
 [PC Assembly Language](https://pacman128.github.io/static/pcasm-book.pdf)
